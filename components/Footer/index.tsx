@@ -28,7 +28,7 @@ const Footer: NextPage = () => {
         justifyContent={["center", "space-around", "space-between"]}
         flexDirection={["column", "column", "row"]}
         alignItems={["center", "center", "flex-start"]}
-        padding={"4em"}
+        padding={["4em 1em", "4em"]}
         flexWrap={"wrap"}
       >
         <Box
