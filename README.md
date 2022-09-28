@@ -1,5 +1,7 @@
 ## Getting Started
-
+<div>
+<img src=https://images.emojiterra.com/google/android-10/512px/1f44b.png width='25px'/> <h3>Hello!</h3>
+</div>
 first, install the dependencies and then run the server:
 
 ```bash
